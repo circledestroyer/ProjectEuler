@@ -10,3 +10,5 @@ def mult35():
 		else:
 			i += 1
 	print(count)
+
+mult35()
